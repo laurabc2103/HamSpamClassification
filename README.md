@@ -1,5 +1,4 @@
-# Spam_Ham_emails
-Ham_Spam_Email_Classification
+# Email Classification: ham and spam
 
 Introduction
 This project aims to classify emails into two categories: spam and ham. The dataset comprises 5172 emails, with 1500 spam and 3672 ham examples. The objective is to develop a robust classification model using machine learning techniques, leveraging tools like Weka and KNN, and employing effective text preprocessing methods.
