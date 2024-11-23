@@ -6,4 +6,4 @@ This project aims to classify emails into two categories: spam and ham. The data
 
 Emails_arff_conversion.py. The code was implemented to make the email data suitable for Weka by converting it into the .arff format with a proper structure comprising a header and data.  This ensured the integration of the file into Weka, allowing for smooth training and evaluation of the model.
 
-Preprocessing_code_cleaning.py. The code was designed to preprocess the email text to enhance classification accuracy. It performed tasks such as removing special characters, slashes, and hyphens, converting text to lowercase, removing punctuation, and eliminating stopwords. These preprocessing steps ensured cleaner and more uniform input data, reducing noise and strengthening the classification process.
+Preprocessing_code_cleaning.py. The code was designed to preprocess the email text to enhance classification accuracy. It performed tasks such as removing special characters, slashes, and hyphens, removing punctuation, and eliminating stopwords. These preprocessing steps ensured cleaner and more uniform input data, reducing noise and strengthening the classification process.
